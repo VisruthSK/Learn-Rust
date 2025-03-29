@@ -1,0 +1,1 @@
+I'm planning on reading [The Rust Book](https://doc.rust-lang.org/stable/book/title-page.html) to learn Rust. I was thinking of learning C/C++ and/or OCaml first--I might end up spending more time with C/C++ since they're more directly applicable to my work, but Rust seems more fun.
