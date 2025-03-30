@@ -31,5 +31,9 @@ fn main() {
                 break;
             }
         }
+
+        // let a = [0; 5];
+        // println!("{}", a[6]);
+        // Errors at compile time
     }
 }
